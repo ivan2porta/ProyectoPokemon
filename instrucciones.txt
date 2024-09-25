@@ -1,0 +1,15 @@
+En este juego, tienes que elegir 3 criaturas llamadas Pokemon, y hacer
+que luchen entre ellas, en un combate por turnos, en cada turno, podrás
+elegir si quieres atacar al pokemon de tu rival, cambiar tu pokemon, o
+rendirte.
+
+Cada pokemon tiene 4 ataques, y pertenece a 2 tipos elementales y cada 
+ataque, pertenece a un solo tipo elemental, la combinación de estos 
+tipos, crea sinergias. 
+
+Si un pokemon de tipo agua, utiliza un ataque de este tipo, el ataque 
+causará 1.5 mas de daño al rival, pero dependiendo de los tipos de tu
+rival, el ataque puede causar más, o menos daño, por ejemplo, si tu 
+ataque es de tipo agua, el daño que haga a un pokemon de tipo fuego,
+se multiplicara por 2, pero si el rival es de tipo planta, el daño se
+multiplicara por 0.5.
