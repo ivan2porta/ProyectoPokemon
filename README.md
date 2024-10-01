@@ -1,6 +1,6 @@
 # ⚔️ Combate Pokémon en Línea de Comandos
 
-Bienvenido al repositorio de **Combate Pokémon**, un juego de estrategia por turnos en el que podrás enfrentar a tus Pokémon contra los de entrenadores rivales. El juego está desarrollado en **Java**, con música integrada y objetos como entrenadores, Pokémon, y movimientos guardados en ficheros externos que el programa lee al ejecutarse.
+Bienvenido al repositorio de **Proyecto Pokemon**, un juego de estrategia por turnos en el que podrás enfrentar a tus Pokémon contra los de entrenadores rivales. El juego está desarrollado en **Java**, con música integrada y objetos como entrenadores, Pokémon, y movimientos guardados en ficheros externos que el programa lee al ejecutarse.
 
 ## 🎮 Descripción del Juego
 
